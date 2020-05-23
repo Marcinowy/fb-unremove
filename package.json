@@ -1,0 +1,17 @@
+{
+  "name": "fb-unremove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "facebook-chat-api": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "bot": "node index.js",
+    "bot-v2": "node name.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
